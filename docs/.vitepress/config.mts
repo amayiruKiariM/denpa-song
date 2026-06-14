@@ -55,110 +55,110 @@ export default defineConfig({
       {
         text: '<span class="i-lucide:badge-info"></span> About',
         collapsed: false,
-        link: '/denpa-song/about/',
+        link: '/about/',
         items: [
           {
             text: '<span class="i-lucide:book-marked"></span> Glossary',
             collapsed: true,
-            link: '/denpa-song/about/glossary'
+            link: '/about/glossary'
           },
           {
             text: '<span class="i-lucide:book-open-text"></span> 🚧 Description',
             collapsed: false,
-            link: '/denpa-song/about/description'
+            link: '/about/description'
           },
           {
             text: '<span class="i-lucide:book-search"></span> 🚧 Etymology',
             collapsed: false,
-            link: '/denpa-song/about/etymology'
+            link: '/about/etymology'
           },
         ]
       },
       {
         text: '<span class="i-lucide:book-text"></span> Resources',
         collapsed: false,
-        link: '/denpa-song/resources/',
+        link: '/resources/',
         items: [
           {
             text: '<span class="i-lucide:file-search-corner"></span> Portals',
-            link: '/denpa-song/resources#portals'
+            link: '/resources#portals'
           },
           {
             text: '<span class="i-lucide:book-marked"></span> Glossary',
-            link: '/denpa-song/resources#glossary'
+            link: '/resources#glossary'
           },
           {
             text: '<span class="i-lucide:book-headphones"></span> Libraries',
-            link: '/denpa-song/resources#libraries'
+            link: '/resources#libraries'
           },
           {
             text: '<span class="i-lucide:file-user"></span> Blogposts',
             collapsed: true,
-            link: '/denpa-song/resources#blogposts'
+            link: '/resources#blogposts'
           },
           {
             text: '<span class="i-lucide:file-heart"></span> Fanpages',
-            link: '/denpa-song/resources#fanpages'
+            link: '/resources#fanpages'
           },
           {
             text: '<span class="i-lucide:messages-square"></span> Interviews',
-            link: '/denpa-song/resources#interviews'
+            link: '/resources#interviews'
           },
           {
             text: '<span class="i-lucide:file-box"></span> Projects',
-            link: '/denpa-song/resources#projects'
+            link: '/resources#projects'
           },
           {
             text: '<span class="i-lucide:download"></span> Downloads',
-            link: '/denpa-song/resources#downloads'
+            link: '/resources#downloads'
           },
           {
             text: '<span class="i-lucide:monitor-play"></span> Streaming',
-            link: '/denpa-song/resources#streaming'
+            link: '/resources#streaming'
           },
           {
             text: '<span class="i-lucide:file-spreadsheet"></span> Boards',
             collapsed: true,
-            link: '/denpa-song/resources#boards'
+            link: '/resources#boards'
           },
         ]
       },
       {
         text: '<span class="i-lucide:user"></span> Bodies',
         collapsed: false,
-        link: '/denpa-song/bodies/',
+        link: '/bodies/',
         items: [
           {
             text: '<span class="i-lucide:user-round-search"></span> Directory',
             collapsed: true,
-            link: '/denpa-song/bodies/directory',
+            link: '/bodies/directory',
           },
         ]
       },
       {
         text: '<span class="i-lucide:drama"></span> Language',
         collapsed: false,
-        link: '/denpa-song/language/',
+        link: '/language/',
         items: [
           {
             text: '<span class="i-lucide:sparkles"></span> Aesthetic',
             collapsed: true,
-            link: '/denpa-song/language/aesthetic'
+            link: '/language/aesthetic'
           },
           {
             text: '<span class="i-lucide:panda"></span> 🚧 Characters',
             collapsed: true,
-            link: '/denpa-song/language/characters',
+            link: '/language/characters',
           },
           {
             text: '<span class="i-lucide:paintbrush"></span> 🚧 Animated Music Video',
             collapsed: true,
-            link: '/denpa-song/language/amv',
+            link: '/language/amv',
           },
           {
             text: '<span class="i-lucide:list-music"></span> 🚧 Lyrics',
             collapsed: true,
-            link: '/denpa-song/language/lyrics',
+            link: '/language/lyrics',
           },
 
         ]
@@ -166,49 +166,49 @@ export default defineConfig({
       {
         text: '<span class="i-lucide:globe"></span> Networking',
         collapsed: false,
-        link: '/denpa-song/networking/',
+        link: '/networking/',
         items: [
           {
             text: '<span class="i-lucide:house-heart"></span> Communities',
             collapsed: true,
-            link: '/denpa-song/networking/communities',
+            link: '/networking/communities',
           },
         ]
       },
       {
         text: '<span class="i-lucide:beer"></span> Misc',
         collapsed: false,
-        link: '/denpa-song/misc/',
+        link: '/misc/',
         items: [
           {
             text: '<span class="i-lucide:star"></span> 🚧 Iconic Denpa Songs',
             collapsed: true,
-            link: '/denpa-song/misc/top',
+            link: '/misc/top',
           },
           {
             text: '<span class="i-lucide:sprout"></span> Pre 2000s Denpa Songs',
             collapsed: true,
-            link: '/denpa-song/misc/pre',
+            link: '/misc/pre',
           },
           {
             text: '<span class="i-lucide:gamepad-2"></span> 🚧 Video Games',
             collapsed: true,
-            link: '/denpa-song/misc/games',
+            link: '/misc/games',
           },
           {
             text: '<span class="i-lucide:rabbit"></span> 🚧 Sticker Packs',
             collapsed: true,
-            link: '/denpa-song/misc/packs',
+            link: '/misc/packs',
           },
           {
             text: '<span class="i-lucide:bar-chart-big"></span> 🚧 Iceberg Chart',
             collapsed: true,
-            link: '/denpa-song/misc/iceberg',
+            link: '/misc/iceberg',
           },
           {
             text: '<span class="i-lucide:graduation-cap"></span> 🚧 Culture Reading',
             collapsed: true,
-            link: '/denpa-song/misc/culture',
+            link: '/misc/culture',
           },
         ]
       },
