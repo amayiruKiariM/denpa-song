@@ -9,13 +9,11 @@ export default defineConfig({
       })
     ]
   },
-
+  base: "/denpa-song/",
   cleanUrls: true,
   title: "denpa song ♪〜",
   description: "resources",
-
   head: [['link', { rel: 'icon', href: '/assets/icon.ico' }]],
-
   themeConfig: {
     logo: '/assets/icon2.png',
     outline: {
