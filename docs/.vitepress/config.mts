@@ -11,6 +11,7 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'icon', href: '/assets/icon.ico' }],
+    ['meta', { name: 'google-site-verification', content: '3JRpQeAUujxZ0cO-7Tjqan1udYrgepMLMw5LQnnLXiU' }],
     ['meta', { property: 'og:title', content: 'Denpa Song Archive' }],
     ['meta', { property: 'og:description', content: 'Denpa Song Archive to please the heart of otaku!' }],
     ['meta', { property: 'og:url', content: 'https://denpa.aishitei.ru/' }],
