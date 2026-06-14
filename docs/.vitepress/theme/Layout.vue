@@ -13,7 +13,7 @@ const { Layout } = DefaultTheme
     </template>
 
     <template #nav-bar-content-after>
-      <a class="moe-banner" href="https://example.com">
+      <a class="moe-banner" href="https://trudenpa.github.io/denpa-song/">
         <img src="/assets/banner.png" />
       </a>
     </template>

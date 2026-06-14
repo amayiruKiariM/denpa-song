@@ -1,16 +1,16 @@
 <script setup>
-import { play } from '../playerState'
+import { withBase } from 'vitepress'
 
-defineProps({
+const props = defineProps({
   src: String,
   title: String
 })
 
-console.log('VideoLink loaded')
-</script>
+const videoUrl = withBase(props.src)
 
+</script>
 <template>
-  <button class="video-link" @click="play(src)">
-    Play
-  </button>
+  <a :href="videoUrl" target="_blank" rel="noopener noreferrer">
+    {{ title }}
+  </a>
 </template>
