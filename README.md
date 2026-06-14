@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://denpa.aishitei.ru/assets/title.png" alt="Denpa Song Archive Banner" width="800"/>
+<img src="https://denpa.aishitei.ru/assets/title.png" alt="Denpa Song Archive Banner" width="800"/>
 
 # 電波ソング・アーカイブ · Denpa Song Archive
   
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-f5a8c7?style=for-the-badge&logo=creativecommons&logoColor=white&labelColor=333333)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/CC%20BY--SA%204.0-f5a8c7?style=for-the-badge&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![npm](https://img.shields.io/badge/npm-f5a8c7?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-f5a8c7?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-f5a8c7?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
