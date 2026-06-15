@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
+import { tabsMarkdownPlugin } from 'vitepress-plugin-tabs'
 
 export default defineConfig({
   vite: {
@@ -27,9 +28,11 @@ export default defineConfig({
   title: "denpa song ♪〜",
   description: "resources",
   lastUpdated: true,
-
-
-
+  markdown: {
+    config(md) {
+      md.use(tabsMarkdownPlugin)
+    },
+  },
   themeConfig: {
     logo: '/assets/icon2.png',
     outline: {

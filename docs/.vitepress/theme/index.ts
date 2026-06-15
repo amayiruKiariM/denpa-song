@@ -4,6 +4,7 @@ import 'uno.css'
 import Layout from './Layout.vue'
 import VideoLink from './components/VideoLink.vue'
 import FloatingPlayer from './components/FloatingPlayer.vue'
+import { enhanceAppWithTabs } from 'vitepress-plugin-tabs/client'
 
 if (typeof window !== 'undefined') {
   (function () {
@@ -29,5 +30,6 @@ export default {
   enhanceApp({ app }) {
     app.component('VideoLink', VideoLink)
     app.component('FloatingPlayer', FloatingPlayer)
+    enhanceAppWithTabs(app)
   },
 }

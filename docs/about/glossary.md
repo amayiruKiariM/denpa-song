@@ -1,6 +1,8 @@
 # Denpa Related Vocabulary
 
-## Concepts
+::: tabs
+
+== Concepts
 
 <div class="term-grid">
 
@@ -41,8 +43,8 @@
 </div>
 
 </div>
- 
-## Music
+
+== Music
 
 <div class="term-grid">
 
@@ -148,7 +150,7 @@
 
 </div>
 
-## Media
+== Media
 
 <div class="term-grid">
 
@@ -172,18 +174,9 @@
 
 </div>
 
-## Internet Culture
+== Internet Culture
 
 <div class="term-grid">
-
-<div class="term-card">
-  <span class="term-main">DSD</span>
-  <div class="term-details">
-    <span class="term-title">DSD</span>
-    <span class="term-subtitle">Denpa Song Discord</span>
-    <span class="term-description">A gatekept discord server fostered by the western denpa-song /jp/ community after the gradual decline of denpa-song threads and the rise of discord in the late 2010s</span>
-  </div>
-</div>
 
 <div class="term-card">
   <span class="term-main">denparty</span>
@@ -196,7 +189,7 @@
 
 </div>
 
-## Visual Novels
+== Visual Novels
 
 <div class="term-grid">
 
@@ -220,7 +213,7 @@
 
 </div>
 
-## Archetypes
+== Archetypes
 
 <div class="term-grid">
 
@@ -235,7 +228,7 @@
 
 </div>
 
-## Other
+== Other
 
 <div class="term-grid">
 
@@ -249,9 +242,13 @@
 
 </div>
 
+:::
+
 # Otaku Related Vocabulary
 
-## Concepts
+::: tabs
+
+== Concepts
 
 <div class="term-grid">
 
@@ -374,7 +371,7 @@
 
 </div>
 
-## Doujin Culture
+== Doujin Culture
 
 <div class="term-grid">
 
@@ -515,7 +512,7 @@
 
 </div>
 
-## Idol Culture
+== Idol Culture
 
 <div class="term-grid">
 
@@ -539,7 +536,7 @@
 
 </div>
 
-## Locations
+== Locations
 
 <div class="term-grid">
 
@@ -581,7 +578,7 @@
 
 </div>
 
-## Music
+== Music
 
 <div class="term-grid">
 
@@ -630,9 +627,18 @@
   </div>
 </div>
 
+<div class="term-card">
+  <span class="term-main">ボカロP</span>
+  <div class="term-details">
+    <span class="term-title">BokaroP </span>
+    <span class="term-subtitle">Vocaloid Producer</span>
+    <span class="term-description">A vocaloid producer; denpa-song can encompass vocaloid tracks</span>
+  </div>
 </div>
 
-## Media
+</div>
+
+== Media
 
 <div class="term-grid">
 
@@ -656,7 +662,7 @@
 
 </div>
 
-## Internet Culture
+== Internet Culture
 
 <div class="term-grid">
 
@@ -752,7 +758,7 @@
 
 </div>
 
-## Visual Novels
+== Visual Novels
 
 <div class="term-grid">
 
@@ -767,7 +773,7 @@
 
 </div>
 
-## Archetypes
+== Archetypes
 
 <div class="term-grid">
 
@@ -818,7 +824,7 @@
 
 </div>
 
-## Other
+== Other
 
 <div class="term-grid">
 
@@ -841,3 +847,5 @@
 </div>
 
 </div>
+
+:::

@@ -1,6 +1,8 @@
 # Portals
 
-###### JP
+::: tabs
+
+== JP
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -20,7 +22,7 @@
 | Song | - | JaneLHAdXg | [電波ソング大賞](https://2009.wsong.net/) |
 | Song | - | - | [2010電波ソング大賞](http://2010.wsong.net/) |
 
-###### EN
+== EN
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -29,12 +31,17 @@
 | Song | 2025 | — | [DENPA SONG RESOURCES](https://denpasong.nekoweb.org/index.html) |
 | Song | — | [...] | [Aesthetics Wiki — Akibapop](https://aesthetics.fandom.com/wiki/Akibapop) |
 | Overall | — | [...] | [Aesthetics Wiki — Denpa](https://aesthetics.fandom.com/wiki/Denpa) |
+| Song | - | [...] | [r/denpa](https://www.reddit.com/r/denpa/) |
+
+:::
 
 ---
 
 # Glossary
 
-###### JP
+::: tabs
+
+== JP
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -54,11 +61,15 @@
 | Song | February 11, 2012 | - | [ゆんゆん](https://netyougo.com/2ch/4755.html) |
 | Song | - | - | [AKIBA-POP (Hatena::Diary)](https://d.hatena.ne.jp/keyword/AKIBA%2dPOP?kid=83847) |
 
+::: 
+
 ---
 
 # Libraries
 
-###### EN
+::: tabs
+
+== EN
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -69,11 +80,15 @@
 | Song | — | 電波の世界, mandichan | [Denpanosekai](https://web.archive.org/web/20170803110634/http://www.denpanosekai.com/) |
 | Song | — | Kolibiri, rubyfire77, MarilynRoxie, serilly, moonpoint, gucciandmoneyz, [...] | [RateYourMusic — Denpa](https://rateyourmusic.com/genre/denpa/) |
 
+:::
+
 ---
 
 # Blogposts
 
-###### JP
+::: tabs
+
+== JP
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -83,7 +98,7 @@
 | Song | May 9 2026 | かに1すけ | [きしめんは電波ソングじゃないだろ！！！！！！！！ ](https://note.com/kanysuke/n/n0251f501ac3f) |
 | Song | - | takeshi0406 | [1990年代以前の電波ソングの世界](https://web.archive.org/web/20200922192044/https://matome.naver.jp/odai/2157234118535188501?page=1) |
 
-###### EN
+== EN
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -104,28 +119,36 @@
 | Song | — | — | [A blog for denpa music](https://denpa-meruhen.tumblr.com/) |
 | Overall | - | ChosenX_ | [Denpa-Kei: How a Mass Murder influenced Japanese Pop Culture (Tokyo Gas Attack post hold-over/build up post #1)](https://watchpeopledie.tv/h/social/post/303554/denpakei-how-a-mass-murder-influenced) |
 
+:::
+
 ---
 
 # Fanpages
 
-###### JP
+::: tabs
+
+== JP
 
 | Category | Publish Date | Author | Entry |
 |-|-|-|-|
 | Song | October 16, 2004 | Ｙ．ＳＡＴＯ | [♪みこみこ＊るーむ♪ (～MI-KO(みーこ)さんとMOSAIC.WAVの部屋～)](https://peace-million.x0.com/mikomiko/index.shtml) |
 
-###### EN
+== EN
 
 | Category | Publish Date | Author | Entry |
 |-|-|-|-|
 | Song | 2020 | parz | [UNDER17 Fanpage Jumbo Parfait Edition!](https://jumboparfait.neocities.org/) |
 | Song | May 29, 2021 | parz | [“World Famous Moe Artist” ~ An UNDER17 Retrospective](https://artificialnightsky.wordpress.com/2021/05/29/an-under17-retrospective/)|
 
+:::
+
 ---
 
 # Interviews
 
-###### JP
+::: tabs
+
+== JP
 
 | Participants | Publish Date | Author | Entry |
 |-|-|-|-|
@@ -133,13 +156,19 @@
 | Haruko Momoi | December 27, 2013 | Masaru Goto | [桃井はるこ緊急インタビュー！ヲタなら見逃せない大晦日開催 「アニソンキング」の魅力を熱弁!!](https://web.archive.org/web/20140704155816/http://otapol.jp/2013/12/post-362_4.html) |
 | KOTOKO, Nanahira, Haruko Momoi | April 28, 2026 | Keigo Toyoda | [KOTOKO×ななひら×桃井はるこ『ゆんゆん電波シンドローム』電波ソング歌姫鼎談──「電波ソング」はオーディエンスが作った言葉でありジャンル](https://news.denfaminicogamer.jp/interview/260428y/3) |
 
+:::
+
 ---
 
 # Projects
 
-###### JP
+:::: tabs
 
-### S.Prefecture Tsukimiya Incident (Urban Legend)
+=== JP
+
+::: tabs
+
+== S.Prefecture Tsukimiya Incident (Urban Legend)
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -148,7 +177,7 @@
 | Overall | July 14, 2012 | [...] | [S県月宮(都市伝説)](https://w.atwiki.jp/aniwotawiki/pages/2307.html) |
 | Overall | - | - | [S県月宮](https://yuni.sa-kon.net/tukimiya/tukimiya.html) |
 
-### Project "D" Portals
+== Project "D" Portals
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -166,7 +195,7 @@
 | Song | August 13, 2006 | D-298 | [PROJECT"D"の歴史](https://sound.jp/d_298/) |
 | Song | - | - | [Project D　倉庫](https://sound.jp/458/) |
 
-### Project "D" Threads
+== Project "D" Threads
 
 | Thread ID | Date | Author | Thread Title | Link |
 |-----------|------|--------|--------------|------|
@@ -178,7 +207,7 @@
 | DEKwEF9U | 04/10/13 | 名無しサンプリング＠48kHz |【萌・燃 電波ｿﾝｸﾞ】PROJECT"D"【創作】 6曲目 | [View](https://sound.jp/d_298/others/thread/1097672914.html) |
 | +vlqnOhh | 04/12/13 | 名無しサンプリング＠48kHz |【萌 電波ｿﾝｸﾞ】PROJECT"D"【創作】 7曲目 | [View](https://sound.jp/d_298/others/thread/1102912816.html) |
 
-### Project "Denpa Song Awards"
+== Project "Denpa Song Awards"
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -204,19 +233,17 @@
 | Song | January, 2010 | - | [第0回00年代電波ソング大賞【累積】(Best Denpa Song Poll 2000s [Overall])](https://web.archive.org/web/20160531024311/http://2009.wsong.net/limit09ver3.cgi) |
 | Song | January, 2010 | - | [90年代以前電波ソング大賞【累積】(Best Denpa Song Poll pre-2000s [Overall])](https://web.archive.org/web/20211129110543/https://2009.wsong.net/nolimit09ver3.cgi) |
 
-### Project "Guidelines on Collecting Funny Denpa Songs"
+== Project "Guidelines on Collecting Funny Denpa Songs"
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
 | Song | July 13, 2003 | 天麩羅職人見習い | [笑える電波ソングを集めるガイドライン のテンプレサイト (Template Site for Guidelines on Collecting Funny Denpa Songs)](https://web.archive.org/web/20030728031620/http://www.geocities.co.jp/Hollywood-Kouen/6684/) |
 | Song | October 23, 2003 | 天麩羅職人見習い | [笑える電波ソングを集めるガイドライン (Guidelines on Collecting Funny Denpa Songs)](https://web.archive.org/web/20101205172027/http://sound.jp/dempa_song/) |
 
-### Series "Guidelines on Collecting Funny Denpa Songs Thread"
+== Series "Guidelines on Collecting Funny Denpa Songs Thread"
 
-::: tip
 iteration #4 was originally a typo ('3')
 iteration #31 couldn't be retrieved and are therefore missing
-:::
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
@@ -252,11 +279,9 @@ iteration #31 couldn't be retrieved and are therefore missing
 | rTe9Wy1J0 | 07/11/28 | 笑える電波ソングを集めるガイドライン 30曲目 (Guidelines on Collecting Funny Denpa Songs Thread #30) | [View](http://www.unkar.org/read/society6.2ch.net/gline/1196244147/) |
 | zq2p+X8G0 | 09/01/01 | 笑える電波ソングを集めるガイドライン 32曲目 (Guidelines on Collecting Funny Denpa Songs Thread #32) | [View](https://web.archive.org/web/20100926103808/http://www.unkar.org/read/society6.2ch.net/gline/1230817772) |
 
-### Series "kyunkyun! (heart-flattering) Denpa Song Thread"
+== Series "kyunkyun! (heart-flattering) Denpa Song Thread"
 
-::: tip
 "(ﾟ∀ﾟ)ﾉｷｭﾝｷｭﾝ! ★11th Stage★" and "ｷｭﾝｷｭﾝ!ヽ(ﾟ∀ﾟ)人(ﾟ∀ﾟ)ﾉｷｭﾙﾙﾝ! ★15th Stage★" is missing
-:::
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
@@ -292,15 +317,19 @@ iteration #31 couldn't be retrieved and are therefore missing
 | - | 05/11/17 | ｷｭﾝｷｭﾝ!ヽ(ﾟ∀ﾟ)人(ﾟ∀ﾟ)ﾉｷｭﾙﾙﾝ! ★32nd Stage★  | [View](https://web.archive.org/web/20100702195935/http://etc3.2ch.net/test/read.cgi/denpa/1132223967/) |
 | - | 06/06/20 | ｷｭﾝｷｭﾝ!ヽ(ﾟ∀ﾟ)人(ﾟ∀ﾟ)ﾉｷｭﾙﾙﾝ! ★33th Stage★  | [View](https://web.archive.org/web/20071116135906/http://etc6.2ch.net/test/read.cgi/denpa/1150814532/l50x) |
 
-###### EN
+::: 
 
-### Project "Guidelines on Collecting Funny Denpa Songs" (Translated)
+=== EN
+
+::: tabs
+
+== Project "Guidelines on Collecting Funny Denpa Songs" (Translated)
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
 | Song | August 7, 2003 | RIR6 | [Guidebook of funny dempa song](https://web.archive.org/web/20030822084329/http://world2ch.net/dempa/) |
 
-### Series /jp/ Denpa Song Thread
+== Series /jp/ Denpa Song Thread
 
 | Thread ID | Date | Thread Title | Link |
 |-----------|------|--------------|------|
@@ -412,11 +441,17 @@ iteration #31 couldn't be retrieved and are therefore missing
 | 49020483 | Mar 3, 2025 | Denpa Thread | [View](https://warosu.org/jp/thread/49020483) |
 | 50838130 | Apr 9, 2026 | denpa-song thread | [View](https://warosu.org/jp/thread/50838130) |
 
+:::
+
+::::
+
 ---
 
 # Downloads
 
-###### EN
+::: tabs
+
+== EN
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -429,15 +464,23 @@ iteration #31 couldn't be retrieved and are therefore missing
 | Song | May 29, 2019 | dnpcllctns | [dnpcllctns/denpa](https://gist.github.com/dnpcllctns/9424fcc4c80429253d3194251b4a15ed) |
 | Song | August 18, 2019 | dnpcllctns | [denpa thread uploads](https://gist.github.com/dnpcllctns/f79394cd283ee30834ee6e4bb484b502) |
 
+:::
+
 ---
 
 # Streaming
 
-###### EN
+::: tip TIP
+Last updated: May 6, 2026
+:::
 
-### Youtube
+:::: tabs
 
-#### Documentary
+=== Youtube
+
+::: tabs
+
+== Documentary
 
 | Category | Publish Date | Author | Entry |
 |-|-|-|-|
@@ -445,7 +488,7 @@ iteration #31 couldn't be retrieved and are therefore missing
 | Song | July 4, 2025 | @DudeJericho | [Japan's Queen Of Akihabara - Haruko Momoi](https://youtu.be/nQqUsIuuRHw) |
 | Song | June 7, 2021 | @crm114ss | [【珍スポット】萌え寺 了法寺 / Moe Moe Temple (English sub)](https://www.youtube.com/watch?v=LkyYZj8B0r4) |
 
-#### Channels
+== Channels
 
 | Category | Joined | Author | Entry |
 |----------|--------------|--------|-------|
@@ -461,7 +504,7 @@ iteration #31 couldn't be retrieved and are therefore missing
 | Song | February 9, 2022 | @Burdensmith | [YouTube Channel](https://www.youtube.com/@Burdensmith) |
 | Song | April 1, 2022 | @WavenautArchives | [YouTube Channel](https://www.youtube.com/@WavenautArchives) |
 
-#### Channels (erogesong edition)
+== Channels (erogesong edition)
 
 | Category | Publish Date | Author | Entry |
 |----------|--------------|--------|-------|
@@ -515,11 +558,7 @@ iteration #31 couldn't be retrieved and are therefore missing
 | Song | August 18, 2013 | @erogesong2004e | [YouTube Channel](https://youtube.com/@erogesong2004e) |
 | Song | August 25, 2013 | @erogesong2005e | [YouTube Channel](https://youtube.com/@erogesong2005e) |
 
-#### Playlists & Compilations
-
-::: tip TIP
-Last updated: May 6, 2026
-:::
+== Playlists & Compilations
 
 | Publish Date | Author | Playlist Name | Videos | Link |
 |--------------|--------|---------------|--------|------|
@@ -547,14 +586,15 @@ Last updated: May 6, 2026
 | - | @DeltaEpsilon7787 | Denpa Cult: the Denparty | 3,992 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UWc0erHv9Lnkfw6J5BlOFYT) |
 | - | @DeltaEpsilon7787 | [Broken Playlist] Denparty | 3,370 | [Watch](https://youtube.com/playlist?list=PLUsmzU0OE3UW3V5Xysnxn9s9yITECJWhc) |
 
+:::
 
-### Twitter
+=== Twitter
 
 | Joined | Author | Profile Link |
 |-|-|-|
 | September 2010 | @dempa_bot | [Twitter Profile](https://x.com/dempa_bot) |
 
-### SoundCloud
+=== SoundCloud
 
 | Joined | Author | Profile Link |
 |-|-|-|
@@ -563,32 +603,38 @@ Last updated: May 6, 2026
 | - | vn-usagi | [SoundCloud Profile](https://soundcloud.com/vn-usagi) |
 | - | denpatunes | [SoundCloud Profile](https://soundcloud.com/denpatunes) |
 
-### Spotify
+=== Spotify
 
 | Author | Playlist |
 |-|-|
 | Shamrock | [DENPA EPHEMERA / 電波ソング庫](https://open.spotify.com/playlist/1JhRAqciyC6lkZImt1zHWh?si=807c17172cd54fec) |
 
+:::: 
+
 ---
 
 # Boards
 
-###### JP
+:::: tabs
 
-### 2ch.net
+=== JP
+
+::: tabs
+
+== 2ch.net
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
 | - | 03/11/26 | 【電波】　電波ちゃんねる 9　【発信中】 | [View](https://web.archive.org/web/20041217092353/http://etc3.2ch.net/test/read.cgi/denpa/1069854819/l50) |
 
-### 5ch.net (formerly 2ch.net)
+== 5ch.net (formerly 2ch.net)
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
 | 1qRFxfr90 | 07/10/29 | 電波ソング布教(マニア向け) | [View](https://web.archive.org/web/20200426144722/https://kohada.5ch.net/test/read.cgi/asong/1193589610/l50) |
 
 
-### 2ch.net mirror
+== 2ch.net mirror
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
@@ -597,22 +643,26 @@ Last updated: May 6, 2026
 | 0oI0Efof | 03/05/28 | 煮込味噌茄子 隔離スレ | [View](https://web.archive.org/web/20030824091303/http://page.freett.com/dat2ch07/030620-1054050280.html) |
 | 2SLpJZIU | 08/12/05 | 2008年電波ソング大賞 | [View](https://web.archive.org/web/20100614213034/http://www.unkar.org/read/dubai.2ch.net/news/1228483464) |
 
-### wavesong (custom website)
+== wavesong (custom website)
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
 | uBR9Xpjlnk | 05/12/31 | ２００５年電波ソング大賞を振り返って | [View](https://web.archive.org/web/20210922233418/http://wavesong.web.fc2.com/wavesong2005.html) |
 
-###### EN
+:::
 
-### world2ch.net (textboard)
+=== EN
+
+::: tabs
+
+== world2ch.net (textboard)
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
 | jUaJswvo | 2003/07/23 | 電波ソングを外国に広めるガ（略 | [View](http://web.archive.org/web/20030826102010/http://world2ch.net/test/read.cgi/japan/1058937781/) |
 | fG5X6Qis | 2003/07/26 | Guidebook of funny dempa song of world2ch | [View](https://web.archive.org/web/20030909004053/http://world2ch.net/test/read.cgi/music/1059250539/l50) |
 
-### 4-ch.net (textboard)
+== 4-ch.net (textboard)
 
 | ID | Date | Thread Title | Link |
 |----|------|--------------|------|
@@ -622,7 +672,7 @@ Last updated: May 6, 2026
 | Heaven | 2005-11-09 | Moe Denpa Songs Turned Extreme Metal (28) | [View](https://archives.4-ch.net/music/kareha.pl/1131506432/l50) |
 | gqq1Dpq2 | 2006-11-30 | History of Dempa?? (5) | [View](https://archives.4-ch.net/music/kareha.pl/1164904841/l50) |
 
-### 4chan.org /jp/ (Not Part of Series)
+== 4chan.org /jp/ (Not Part of Series)
 
 | Thread ID | Date | Thread Title | Link |
 |-----------|------|--------------|------|
@@ -673,33 +723,37 @@ Last updated: May 6, 2026
 | 50064511 | Sep 26, 2025 | trudenpa / リアル電波 | [View](https://warosu.org/jp/thread/50064511) |
 | 50322413 | Nov 19, 2025 | - | [View](https://warosu.org/jp/thread/50322413) |
 
-### heyuri.net (imageboard)
+== heyuri.net (imageboard)
 
 | Thread ID | Date | Thread Title | Link |
 |-----------|------|--------------|------|
 | 2676 | 2023/01/09 | Denpa Thread / 電波ソング | [View](https://dis.heyuri.net/lounge/koko.php?res=2676&page=0#p5_2676) |
 
-### wapchan.org (imageboard)
+== wapchan.org (imageboard)
 
 | Thread ID | Date | Link |
 |-----------|------|------|
 | 1063 | April 30, 2025 | [View](https://wapchan.org/djn/res/1063.html) |
 
-### kissu.moe (imageboard)
+== kissu.moe (imageboard)
 
 | Thread ID | Date | Link |
 |-----------|------|------|
 | 150363 | April 24, 2025 | [View](https://kissu.moe/qa/thread/150363) |
 | 169440 | Jan 18, 2026 | [View](https://kissu.moe/qa/thread/169440) |
 
-### leftychan.net (imageboard)
+== leftychan.net (imageboard)
 
 | Thread ID | Date | Link |
 |-----------|------|------|
 | 1874 | May 25, 2021 | [View](https://leftychan.net/ent/res/1874.html) |
 
-### bunbunmaru.com (imageboard)
+== bunbunmaru.com (imageboard)
 
 | Thread ID | Date | Link |
 |-----------|------|------|
 | 37608 | November 15, 2011 | [View](https://web.archive.org/web/20210518035658/http://bunbunmaru.com:80/wakaba/general/res/37608.html) |
+
+:::
+
+::::
