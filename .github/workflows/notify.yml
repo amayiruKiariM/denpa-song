@@ -22,6 +22,5 @@ jobs:
           title: "Denpa Song Archive Deployment"
           description: |
             **Commit:** `${{ github.event.head_commit.message }}`
-            **Author:** ${{ github.event.head_commit.author.username }}
             **Branch:** `${{ github.ref_name }}`
           url: ${{ github.event.head_commit.url }}
