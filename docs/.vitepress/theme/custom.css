@@ -1,29 +1,32 @@
 /* ========== ROOT ========== */
 
 :root {
-  /* ========== CONFIG ========== */
-
   --vp-sidebar-width: 280px;
   --vp-layout-max-width: 1490px;
 
+  /* current selection, hover selection, main page icons */
   --vp-c-brand-1: #f5a8c7;
-  --vp-c-brand-2: #f19cbe;
-  --vp-c-bg: #fff5fa;
-  --vp-c-bg-soft: #fffdfd;
-  --vp-c-text-1: #864363;
-  --vp-c-text-2: #6e2e4d;
-  --vp-c-divider: #f0d9e5;
-  --vp-code-block-bg: var(--vp-c-bg);
 
-  /*
-  --vp-c-brand-1: #e09bb9;
-  --vp-c-brand-2: #d48daf;
-  --vp-c-bg: #fef7fb;
-  --vp-c-bg-soft: #fffbfd;
-  --vp-c-text-1: #5c4852;
-  --vp-c-text-2: #834c69;
-  --vp-c-divider: #f2e3ea;
-  */
+  /* background color */
+  --vp-c-brand-2: #fff7fa;
+
+  /* header box color */
+  --vp-c-bg: #fff5fa;
+
+  /* background color */
+  --vp-c-bg-soft: #fffdfd;
+
+  /* text color */
+  --vp-c-text-1: #864363;
+
+  /* text color */
+  --vp-c-text-2: #6e2e4d;
+
+  /* divider color */
+  --vp-c-divider: #f0d9e5;
+
+  /* codeblock color */
+  --vp-code-block-bg: var(--vp-c-bg);
 }
 
 /* ========== SIZE ========== */
@@ -84,19 +87,80 @@
   }
 }
 
-/* ========== BODY ========== */
+/* ========== DEFAULT BODY BACKGROUND (Homepage) ========== */
 
 body {
-  background-color: #fff5fa;
-  /* Fallback */
-  background-image:
-    linear-gradient(45deg, #fdf1f6 25%, transparent 25%),
-    linear-gradient(-45deg, #fdf1f6 25%, transparent 25%),
-    linear-gradient(45deg, transparent 75%, #fdf1f6 75%),
-    linear-gradient(-45deg, transparent 75%, #fdf1f6 75%);
-  background-size: 20px 20px;
-  background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+  background: var(--vp-c-brand-2);
   opacity: 0.8;
+}
+
+/* ========== CATEGORY: ABOUT ========== */
+
+body.category-about {
+  background:
+    linear-gradient(var(--vp-c-brand-2) 50%, var(--vp-c-bg-soft) 50%);
+  background-size: 1024px 1024px;
+  opacity: 0.8;
+}
+
+/* ========== CATEGORY: RESOURCES ========== */
+
+body.category-resources {
+  background-color: var(--vp-c-bg-soft);
+  background-image:
+    linear-gradient(90deg,
+      color-mix(in srgb, var(--vp-c-divider) 20%, transparent) 50%,
+      transparent 50%),
+    linear-gradient(color-mix(in srgb, var(--vp-c-divider) 20%, transparent) 50%,
+      transparent 50%);
+  background-size: 64px 64px;
+}
+
+/* ========== CATEGORY: BODIES ========== */
+
+body.category-bodies {
+  background:
+    linear-gradient(90deg, var(--vp-c-brand-2) 50%, var(--vp-c-bg-soft) 50%),
+    linear-gradient(var(--vp-c-brand-2) 50%, var(--vp-c-bg-soft) 50%);
+  background-size: 32px 16px;
+  opacity: 0.8;
+}
+
+/* ========== CATEGORY: LANGUAGE ========== */
+
+body.category-language {
+  background: var(--vp-c-divider);
+  opacity: 0.8;
+}
+
+/* ========== CATEGORY: NETWORKING ========== */
+
+body.category-networking {
+  background-color: var(--vp-c-bg-soft);
+  background-image:
+    linear-gradient(90deg, var(--vp-c-brand-2) 50%, transparent 50%),
+    linear-gradient(var(--vp-c-brand-2) 50%, transparent 50%);
+  background-size: 64px 64px;
+  opacity: 0.8;
+}
+
+/* ========== CATEGORY: MISC ========== */
+
+body.category-misc {
+  background-color: var(--vp-c-bg-soft);
+  background-image:
+    repeating-linear-gradient(0deg,
+      color-mix(in srgb, var(--vp-c-brand-1) 18%, transparent) 0px,
+      color-mix(in srgb, var(--vp-c-brand-1) 18%, transparent) 1px,
+      transparent 1px,
+      transparent 24px),
+
+    repeating-linear-gradient(90deg,
+      color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent) 0px,
+      color-mix(in srgb, var(--vp-c-brand-1) 10%, transparent) 1px,
+      transparent 1px,
+      transparent 80px);
+  background-size: auto;
 }
 
 /* ========== MASCOT ========== */
@@ -131,7 +195,7 @@ a:hover {
   padding: 24px;
 }
 
-/* ========== FONT AESTHETIC ========== */
+/* ========== FONT ========== */
 
 html,
 body,
@@ -199,7 +263,6 @@ h2>* {
   gap: 10px !important;
 }
 
-
 /* ========== LEFT SIDEBAR ITEM & BOX ALIGNMENT ========== */
 
 /*
@@ -259,6 +322,12 @@ h2>* {
 
 .DocSearch-Button-Key {
   border-radius: 0px !important;
+}
+
+/* ========== CARET ICON ========== */
+
+.VPSidebar .caret-icon {
+  color: var(--vp-c-text-1) !important;
 }
 
 /* ========== CURTAIN, LOGO & TITLE TWEAKS ========== */
@@ -405,28 +474,7 @@ input[type="button"] {
   text-decoration: underline;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* =================================================================================================================== */
 
 /* ========== CARDS ========== */
 
@@ -688,7 +736,6 @@ input[type="button"] {
 .floating-player {
   border:
     1px solid #e6d7e3;
-
   box-shadow:
     inset 0 0 0 1px #fff,
     3px 3px 0 rgba(0, 0, 0, .06) !important;
@@ -700,14 +747,13 @@ input[type="button"] {
 .denpa-title-image {
   display: block;
   margin: 2rem auto 1rem;
-  max-width: 90%;
+  max-width: 65%;
   height: auto;
 }
 
 @media (max-width: 768px) {
   .denpa-title-image {
-    margin-top: 3rem;
-    margin-bottom: 1.5rem;
+    margin-top: 1rem;
   }
 }
 
@@ -731,32 +777,7 @@ input[type="button"] {
   margin-top: 0.5rem !important;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* =================================================================================================================== */
 
 /* ========== REMOVE ASIDE CURTAIN ========== */
 
